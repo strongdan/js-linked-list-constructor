@@ -40,3 +40,12 @@ LinkedList.prototype.removeTail = function() {
   else this.head = null;
   return val;
 }
+
+LinkedList.prototype.search = function(searchValue) {
+  var currentNode = this.head;
+  while (currentNode) {
+    if (currentNode.value === searchValue) return currentNode.value;
+    currentNode = currentNode.next;
+  }
+  return null;
+}
