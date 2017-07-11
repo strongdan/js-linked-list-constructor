@@ -4,3 +4,4 @@
   * method for creating linked list
   * methods for adding and removing nodes
   * method for searching linked list
+  * method for returning index of item in list
