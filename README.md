@@ -2,7 +2,7 @@
 Basic linked list constructor function for Eric Traub's JS Data Structures course
 
 Includes:
-- [ ] method for creating linked list
-- [ ] methods for adding and removing nodes
-- [ ] method for searching linked list
-- [ ] method for returning index of item in list
+- [X] method for creating linked list
+- [X] methods for adding and removing nodes
+- [X] method for searching linked list
+- [X] method for returning index of item in list
